@@ -1,0 +1,16 @@
+TransactionID,Date,TransactionType,Amount
+T001,01-04-2023,Deposit,2000
+T002,01-04-2023,Withdrawal,150
+T003,02-04-2023,Payment,450
+T004,02-04-2023,Deposit,1750
+T005,03-04-2023,Withdrawal,300
+T006,03-04-2023,Payment,220
+T007,04-04-2023,Deposit,1250
+T008,04-04-2023,Withdrawal,400
+T009,05-04-2023,Payment,180
+T010,05-04-2023,Deposit,1500
+T011,06-04-2023,Withdrawal,190
+T012,06-04-2023,Payment,210
+T013,07-04-2023,Deposit,1600
+T014,07-04-2023,Withdrawal,130
+T015,08-04-2023,Payment,245
